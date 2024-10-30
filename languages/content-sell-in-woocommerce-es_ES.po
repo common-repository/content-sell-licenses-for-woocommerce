@@ -1,0 +1,503 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-03 14:44+0530\n"
+"PO-Revision-Date: 2023-03-03 15:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: content-sell-woocommerce.php:35
+msgid "Yes"
+msgstr "Sí"
+
+#: content-sell-woocommerce.php:36
+msgid "No"
+msgstr "No"
+
+#: content-sell-woocommerce.php:299
+msgid "Settings"
+msgstr "Configurar"
+
+#: inc/csellwoo-functions.php:256
+msgid "Guest"
+msgstr "Visitante"
+
+#: inc/classes/content_sell_woo_email.php:21
+msgid "CSELL Access Request Email"
+msgstr "Correo electrónico de solicitud de acceso a CSELL"
+
+#: inc/classes/content_sell_woo_email.php:26
+msgid ""
+"Order email is sent  for the customer on request of the protected page "
+"access."
+msgstr ""
+"Se envía un correo electrónico de pedido al cliente cuando solicita el "
+"acceso a la página protegida."
+
+#: inc/classes/content_sell_woo_email.php:55
+msgid "Request for Content Access & Order Details"
+msgstr "Solicitud de acceso a contenidos y detalles del pedido"
+
+#: inc/classes/content_sell_woo_email.php:65
+msgid "Content Access Links Order Details"
+msgstr "Enlaces de acceso a contenidos Detalles del pedido"
+
+#: inc/classes/content_sell_woo_email.php:117
+#, php-format
+msgid "%s email sent to the customer."
+msgstr "%s correo electrónico enviado al cliente."
+
+#: inc/classes/content_sell_woo_email.php:173
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+#: inc/classes/content_sell_woo_email.php:179
+msgid "Subject"
+msgstr "Sujeto"
+
+#: inc/classes/content_sell_woo_email.php:187
+msgid "Email Heading"
+msgstr "Encabezado de correo electrónico"
+
+#: inc/classes/content_sell_woo_email.php:190
+#, php-format
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+"Esto controla el encabezado principal contenido en la notificación por "
+"correo electrónico. Déjelo en blanco para usar el encabezado predeterminado:"
+"<code>%s</code>."
+
+#: inc/classes/content_sell_woo_email.php:195
+msgid "Email type"
+msgstr "Tipo de correo electrónico"
+
+#: inc/classes/content_sell_woo_email.php:197
+msgid "Choose which format of email to send."
+msgstr "Elija qué formato de correo electrónico enviar."
+
+#: inc/classes/csellwoo-frontend.php:395
+msgid "Check your email inbox for order details with access links."
+msgstr ""
+"Revise su bandeja de entrada de correo electrónico para obtener detalles del "
+"pedido con enlaces de acceso."
+
+#: inc/classes/csellwoo-frontend.php:411
+msgid "Invalid Email, Use your Account/Billing Email, while placing the order"
+msgstr ""
+"Correo electrónico no válido, utilice su cuenta/correo electrónico de "
+"facturación al realizar el pedido"
+
+#: inc/classes/csellwoo-install.php:153
+msgid ""
+"Agreeme Licenses for Woocommerce database update complete. Thank you for "
+"updating to the latest version!"
+msgstr ""
+"Licencias para la actualización de la base de datos de Woocommerce completa. "
+"¡Gracias por actualizar a la última versión!"
+
+#: inc/classes/csellwoo-lic-list-table.php:31
+msgid "PCP"
+msgstr "PCP"
+
+#: inc/classes/csellwoo-lic-list-table.php:31
+msgid "PCPs"
+msgstr "PCPs"
+
+#: inc/classes/csellwoo-lic-list-table.php:47
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/classes/csellwoo-lic-list-table.php:47
+#: inc/options/view/admin-page-lic.php:73
+msgid "Product"
+msgstr "Producto"
+
+#: inc/classes/csellwoo-lic-list-table.php:47
+msgid "Content(s)"
+msgstr "Contenido)"
+
+#: inc/classes/csellwoo-lic-list-table.php:47
+msgid "Expiry Days"
+msgstr "Días de caducidad"
+
+#: inc/classes/csellwoo-lic-list-table.php:88
+#: inc/classes/csellwoo-lic-list-table.php:109
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/classes/csellwoo-lic-list-table.php:88
+#: inc/classes/csellwoo-lic-list-table.php:109
+msgid "Delete"
+msgstr "Borrar"
+
+#: inc/classes/csellwoo-lic.php:29
+msgid "Products Page"
+msgstr "Página de productos"
+
+#: inc/classes/csellwoo-lic.php:30
+msgid "Cart Page"
+msgstr "Página del carrito"
+
+#: inc/classes/csellwoo-lic.php:31
+msgid "Checkout Page"
+msgstr "Página del carrito"
+
+#: inc/classes/csellwoo-order-email.php:19
+#: inc/views/emails/csellwoo-order-email.php:19
+msgid ""
+"Thank you for your request. Your last order detail request with protected "
+"page access details"
+msgstr ""
+"Gracias por tu solicitud. Solicitud de detalles de su último pedido con "
+"detalles de acceso a la página protegida"
+
+#: inc/classes/csellwoo-orderdisplay.php:137
+msgid "Use  below links to gain access:"
+msgstr "Use los enlaces a continuación para obtener acceso:"
+
+#: inc/classes/csellwoo-purchase-list-table.php:31
+msgid "Order"
+msgstr "Orden"
+
+#: inc/classes/csellwoo-purchase-list-table.php:31
+msgid "Orders"
+msgstr "Pedidos"
+
+#: inc/classes/csellwoo-purchase-list-table.php:47
+msgid "Order ID"
+msgstr "Solicitar ID"
+
+#: inc/classes/csellwoo-purchase-list-table.php:47
+msgid "Order Date"
+msgstr "Fecha de orden"
+
+#: inc/classes/csellwoo-purchase-list-table.php:47
+msgid "Customer Details"
+msgstr ""
+
+#: inc/classes/csellwoo-purchase-list-table.php:47
+msgid "License Name"
+msgstr "Nombre de la licencia"
+
+#: inc/options/csellwoo-settings-lic.php:28
+#: inc/options/csellwoo-settings-lic.php:304
+#: inc/options/view/admin-page-lic.php:19
+msgid "Protected Content Packages"
+msgstr "Paquetes de contenido protegido"
+
+#: inc/options/csellwoo-settings-lic.php:136
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Accion: Fallida. Actualice la página y vuelva a intentarlo."
+
+#: inc/options/csellwoo-settings-lic.php:140
+#: inc/options/csellwoo-settings-lic.php:298
+msgid "License does not exist!"
+msgstr "License does not exist!"
+
+#: inc/options/csellwoo-settings-lic.php:143
+msgid "License have been deleted."
+msgstr "Se ha eliminado la licencia."
+
+#: inc/options/csellwoo-settings-lic.php:165
+msgid "Protected Content Packages("
+msgstr "Paquetes de contenido protegido"
+
+#: inc/options/csellwoo-settings-lic.php:165
+msgid "General options"
+msgstr "Opciones generales"
+
+#: inc/options/csellwoo-settings-lic.php:165
+msgid "Purchases"
+msgstr "compras"
+
+#: inc/options/csellwoo-settings-lic.php:195
+msgid "General Options"
+msgstr "Opciones generales"
+
+#: inc/options/csellwoo-settings-lic.php:195
+msgid "Enable"
+msgstr "Permitir"
+
+#: inc/options/csellwoo-settings-lic.php:195
+msgid "Enable Switch On Off all CSP(Content Sell Protection)"
+msgstr "Permitir CSP (protección de venta de contenido)"
+
+#: inc/options/csellwoo-settings-lic.php:197
+msgid ""
+"Enable Plugin to protect content, If not enabled, The protected page "
+"contents will be visible to all."
+msgstr ""
+"Habilite el complemento para proteger el contenido. Si no está habilitado, "
+"el contenido de la página protegida será visible para todos."
+
+#: inc/options/csellwoo-settings-lic.php:198
+msgid "Show  Products to purchase in the bottom of the protected pages"
+msgstr ""
+"Mostrar productos a comprar en la parte inferior de las páginas protegidas"
+
+#: inc/options/csellwoo-settings-lic.php:198
+msgid "Show related products to purchase License in the protected page(s)"
+msgstr ""
+"Mostrar productos relacionados para comprar Licencia en la(s) página(s) "
+"protegida(s)"
+
+#: inc/options/csellwoo-settings-lic.php:200
+msgid "The product will  be listed when showing the protected message notice"
+msgstr "El producto se listará al mostrar el aviso de mensaje protegido"
+
+#: inc/options/csellwoo-settings-lic.php:201
+msgid "Show Email Field in protected pages to request access details in email"
+msgstr ""
+"Mostrar campo de correo electrónico en páginas protegidas para solicitar "
+"detalles de acceso en el correo electrónico"
+
+#: inc/options/csellwoo-settings-lic.php:203
+msgid "Purchased customers will only be sent the access links."
+msgstr "A los clientes comprados sólo se les enviarán los enlaces de acceso."
+
+#: inc/options/csellwoo-settings-lic.php:206
+msgid "Show Notice in  Product's Page"
+msgstr "Mostrar aviso en la página del producto"
+
+#: inc/options/csellwoo-settings-lic.php:206
+msgid "Show notice in licensed product page "
+msgstr "Mostrar aviso en la página del producto con licencia"
+
+#: inc/options/csellwoo-settings-lic.php:208
+msgid "Below notice will displayed in the  product page"
+msgstr "El siguiente aviso se mostrará en la página del producto."
+
+#: inc/options/csellwoo-settings-lic.php:210
+msgid "Product Page Notice Text"
+msgstr "Texto del aviso de la página del producto"
+
+#: inc/options/csellwoo-settings-lic.php:213
+msgid "Extra Post Type apart from Pages"
+msgstr "Tipo de publicación adicional aparte de las páginas"
+
+#: inc/options/csellwoo-settings-lic.php:213
+msgid "The additional post type for protected content"
+msgstr "The additional post type for protected content"
+
+#: inc/options/csellwoo-settings-lic.php:215
+msgid "Select additional post type that can be selected as protected contents"
+msgstr ""
+"Seleccione el tipo de publicación adicional que se puede seleccionar como "
+"contenido protegido"
+
+#: inc/options/csellwoo-settings-lic.php:217
+msgid "Right click disable in protected pages"
+msgstr "Haga clic con el botón derecho en desactivar en páginas protegidas"
+
+#: inc/options/csellwoo-settings-lic.php:217
+msgid "Disable right click in protected pages"
+msgstr "Deshabilitar clic derecho en páginas protegidas"
+
+#: inc/options/csellwoo-settings-lic.php:219
+msgid "Right clicking disabled in the protected content pages"
+msgstr "Clic derecho deshabilitado en las páginas de contenido protegido"
+
+#: inc/options/csellwoo-settings-lic.php:222
+msgid "Protected Content Title"
+msgstr "Protected Content Title"
+
+#: inc/options/csellwoo-settings-lic.php:222
+msgid "Password Protection Message"
+msgstr "Password Protection Message"
+
+#: inc/options/csellwoo-settings-lic.php:274
+msgid "PCP Purchases"
+msgstr "Compras de PCP"
+
+#: inc/options/csellwoo-settings-lic.php:274
+#: inc/options/csellwoo-settings-lic.php:304
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: inc/options/csellwoo-settings-lic.php:275
+msgid "These are orders which customers bought access to protected content(s)"
+msgstr ""
+"Estos son pedidos en los que los clientes compraron acceso a contenido(s) "
+"protegido(s)"
+
+#: inc/options/csellwoo-settings-lic.php:305
+msgid "List of protected content packages(PCPs)"
+msgstr "Lista de paquetes de contenido protegido (PCP)"
+
+#: inc/options/csellwoo-settings-lic.php:329
+msgid "Entry does not exist!"
+msgstr "¡La entrada no existe!"
+
+#: inc/options/csellwoo-settings-lic.php:337
+msgid "Name is required."
+msgstr "Se requiere el nombre."
+
+#: inc/options/csellwoo-settings-lic.php:363
+msgid "Entry updated successfully."
+msgstr "Entrada actualizada con éxito."
+
+#: inc/options/csellwoo-settings-lic.php:365
+msgid "Back to Listings"
+msgstr "Volver a listados"
+
+#: inc/options/csellwoo-settings-lic.php:366
+msgid "Add a new license"
+msgstr "Agregar una nueva licencia"
+
+#: inc/options/view/admin-page-lic.php:20
+msgid "New Package"
+msgstr "Nuevo paquete"
+
+#: inc/options/view/admin-page-lic.php:28
+msgid "Package Name"
+msgstr "Nombre del paquete"
+
+#: inc/options/view/admin-page-lic.php:29
+msgid "This is the name of the Package for your reference."
+msgstr "Este es el nombre del Paquete para su referencia."
+
+#: inc/options/view/admin-page-lic.php:38
+msgid "Package Code"
+msgstr "Código del paquete"
+
+#: inc/options/view/admin-page-lic.php:39
+msgid "This is the access code of the package, auto generated."
+msgstr "Este es el código de acceso del paquete, generado automáticamente."
+
+#: inc/options/view/admin-page-lic.php:52
+msgid "Expiry in Days"
+msgstr "Caducidad en Días"
+
+#: inc/options/view/admin-page-lic.php:53
+msgid ""
+"The expiry in number of days from the day of purchase, keep it empty if "
+"expiry not required."
+msgstr ""
+"La caducidad en número de días desde el día de la compra, manténgala vacía "
+"si no se requiere caducidad."
+
+#: inc/options/view/admin-page-lic.php:76
+msgid "product to purchase..."
+msgstr "producto a comprar..."
+
+#: inc/options/view/admin-page-lic.php:85
+msgid "The product customer orders, to get access."
+msgstr "Los pedidos del cliente del producto, para obtener acceso."
+
+#: inc/options/view/admin-page-lic.php:92
+msgid ""
+"< ---- ---- Select Protected Contents that are given access when the above "
+"product is purchased. ---- ---- >"
+msgstr ""
+"< ---- ---- Seleccione Contenidos protegidos a los que se da acceso cuando "
+"se compra el producto anterior. ---- ---- >"
+
+#: inc/options/view/admin-page-lic.php:109
+msgid "Pages"
+msgstr "Paginas"
+
+#: inc/options/view/admin-page-lic.php:110
+msgid ""
+"Select the list of protected pages for this license, edit the page to make "
+"it  Protected."
+msgstr ""
+"Select the list of protected pages for this license, edit the page to make "
+"it  Protected."
+
+#: inc/options/view/admin-page-lic.php:114
+msgid "Protected Pages"
+msgstr "Páginas protegidas"
+
+#: inc/options/view/admin-page-lic.php:127
+msgid ""
+"The Access links for these pages will be sent in the order completion email"
+msgstr ""
+"Los enlaces de acceso a estas páginas se enviarán en el correo electrónico "
+"de finalización del pedido."
+
+#: inc/options/view/admin-page-lic.php:145
+msgid "Other Contents(Custom PostType)"
+msgstr "Otros contenidos(Custom PostType)"
+
+#: inc/options/view/admin-page-lic.php:146
+msgid ""
+"Select the list of protected custom post type content for this license, edit "
+"post to make it as Protected."
+msgstr ""
+"Seleccione la lista de contenido de tipo de publicación personalizada "
+"protegida para esta licencia, edite la publicación para convertirla en "
+"Protegida."
+
+#: inc/options/view/admin-page-lic.php:151
+msgid "Protected Posts"
+msgstr "Publicaciones protegidas"
+
+#: inc/options/view/admin-page-lic.php:166
+msgid ""
+"The Access links for these posts will be sent in the order completion email"
+msgstr ""
+"Los enlaces de acceso para estas publicaciones se enviarán en el correo "
+"electrónico de finalización del pedido."
+
+#: inc/options/view/admin-page-lic.php:183
+msgid "Emails"
+msgstr "Correos electrónicos"
+
+#: inc/options/view/admin-page-lic.php:184
+msgid "Emails to add the protected content access links and instructions"
+msgstr ""
+"Correos electrónicos para agregar los enlaces e instrucciones de acceso al "
+"contenido protegido"
+
+#: inc/options/view/admin-page-lic.php:189
+msgid "Order Completed"
+msgstr "Pedido completado"
+
+#: inc/options/view/admin-page-lic.php:190
+msgid "Customer Invoice"
+msgstr "Factura del cliente"
+
+#: inc/options/view/admin-page-lic.php:207
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: inc/options/view/admin-page-lic.php:209
+msgid "Delete license"
+msgstr "Eliminar licencia"
+
+#: inc/options/view/admin-page-lic.php:209
+msgid "Get Stats"
+msgstr "Obtener estadísticas"
+
+#: inc/views/view-csell-access-form.php:17
+msgid "Enter your last order email address"
+msgstr "Ingrese la dirección de correo electrónico de su último pedido"
+
+#: inc/views/view-csell-access-form.php:18
+msgid "Submit"
+msgstr "Entregar"
+
+#: inc/views/view-csell-access-form.php:28
+#: inc/views/emails/csellwoo-order-email.php:20
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: inc/views/emails/csellwoo-order-email.php:21
+msgid "Below are the last order details for your reference."
+msgstr ""
+"A continuación se muestran los últimos detalles del pedido para su "
+"referencia."
